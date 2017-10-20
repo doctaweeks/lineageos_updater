@@ -10,7 +10,7 @@ with open('updater/__init__.py', 'rb') as f:
 setup(
     name='updater',
     version=version,
-    url='https;//github.com/LineageOS/updater',
+    url='https://github.com/LineageOS/updater',
     license='apache-2.0',
     author='LineageOS Infrastructure Team',
     author_email='infra@bymason.com',
